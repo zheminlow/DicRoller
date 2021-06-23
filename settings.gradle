@@ -1,0 +1,2 @@
+rootProject.name = "DicRoller"
+include ':app'
